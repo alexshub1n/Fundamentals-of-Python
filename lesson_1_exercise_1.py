@@ -8,4 +8,3 @@ print(a)
 print(b)
 print(user_number)
 print(my_str)
-
