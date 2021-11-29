@@ -1,0 +1,10 @@
+Smith 20000
+Johnson 10000
+Williams 15000
+Jones 25000
+Brown 30000
+Davis 21000
+Miller 27000
+Wilson 18000
+Moore 31000
+Taylor 24000
